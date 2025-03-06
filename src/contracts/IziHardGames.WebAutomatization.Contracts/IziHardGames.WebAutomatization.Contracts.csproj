@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <NuspecFile>IziHardGames.WebAutomatization.Contracts.nuspec</NuspecFile>
+    <RootNamespace>IziHardGames.WebAutomatization.Contracts</RootNamespace>
+  </PropertyGroup>
+
+</Project>
